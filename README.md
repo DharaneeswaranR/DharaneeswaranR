@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<br>
 <!--
 **DharaneeswaranR/DharaneeswaranR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=DharaneeswaranR&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=DharaneeswaranR&count_private=true&show_icons=true&hide=contribs&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaneeswaranR&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaneeswaranR&layout=compact&theme=radical)
