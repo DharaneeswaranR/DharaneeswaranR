@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source projects.
 - 🤔 I’m looking for help with Flutter.
 - 💬 Ask me about Python.
-- 📫 How to reach me: ![Linkedin](https://www.linkedin.com/in/dharaneeswaranr/)
-- 😄 Pronouns: He/Him
-
-
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dharaneeswaranr/)
+- 😄 Pronouns: He/Him  P
+<br/>
+### Github stats
 ![Dharaneeswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaneeswaranR&theme=radical&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaneeswaranR&layout=compact)
