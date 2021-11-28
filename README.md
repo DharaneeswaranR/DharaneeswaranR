@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dharaneeswaranr/)
 - 😄 Pronouns: He/Him  P
-<br/>
+
 ### Github stats
 ![Dharaneeswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaneeswaranR&theme=radical&show_icons=true)
 
