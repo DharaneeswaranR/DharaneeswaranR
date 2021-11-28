@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Flutter.
 - 💬 Ask me about Python.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dharaneeswaranr/)
-- 😄 Pronouns: He/Him  P
+- 😄 Pronouns: He/Him  
 
 ### Github stats
 ![Dharaneeswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaneeswaranR&theme=radical&show_icons=true)
