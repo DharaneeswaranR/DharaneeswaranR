@@ -13,7 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dharaneeswaranr/)
 - 😄 Pronouns: He/Him  
 
+## Projects
+
+- [Product Landing Page](https://dharaneeswaranr.github.io/Product-Landing-Page/)
+- [Hours to Minutes converter](https://github.com/DharaneeswaranR/Tkinter-Python-GUI)
+- [Morse code converter](https://github.com/DharaneeswaranR/Morse-Code-Converter)
+- [GPA Calculator](https://github.com/DharaneeswaranR/CGPA-Calculator)
+- [Form Page](https://dharaneeswaranr.github.io/Form-page/)
+
 ### Github stats
+
 ![Dharaneeswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaneeswaranR&theme=radical&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaneeswaranR&layout=compact)
