@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Javascript.
 - 🌱 I’m currently learning Front-End Web Development.
 - 👯 I’m looking to collaborate on Open Source projects.
-- 🤔 I’m looking for help with Flutter.
+- 🤔 I’m looking for help with ReactJS.
 - 💬 Ask me about Python.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dharaneeswaranr/)
 - 😄 Pronouns: He/Him  
