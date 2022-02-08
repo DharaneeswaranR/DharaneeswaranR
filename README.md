@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ## Projects
 
+- [Personal Portfolio](https://dharaneeswaranr.github.io/)
 - [Product Landing Page](https://dharaneeswaranr.github.io/Product-Landing-Page/)
 - [Weather App](https://github.com/DharaneeswaranR/Weather-script)
 - [Neumorphism Login Page](https://dharaneeswaranr.github.io/Neumorphism-Login-Page/)
