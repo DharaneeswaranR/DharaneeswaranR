@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 
 ## Projects
 
-- [Personal Portfolio](https://dharaneeswaranr.github.io/)
-- [Product Landing Page](https://dharaneeswaranr.github.io/Product-Landing-Page/)
-- [Weather App](https://github.com/DharaneeswaranR/Weather-script)
-- [Neumorphism Login Page](https://dharaneeswaranr.github.io/Neumorphism-Login-Page/)
-- [Hours-Minutes to seconds converter](https://github.com/DharaneeswaranR/Tkinter-Python-GUI)
-- [Morse code converter](https://github.com/DharaneeswaranR/Morse-Code-Converter)
-- [GPA Calculator](https://github.com/DharaneeswaranR/CGPA-Calculator)
-- [Form Page](https://dharaneeswaranr.github.io/Form-page/)
+- [Personal Portfolio - HTML/CSS](https://dharaneeswaranr.github.io/)
+- [Product Landing Page -HTML/CSS](https://dharaneeswaranr.github.io/Product-Landing-Page/)
+- [Weather App - Python](https://github.com/DharaneeswaranR/Weather-script)
+- [Imperial-Metric Unit converter - JavaScript](https://dharaneeswaranr.github.io/JavaScript-Unit-Converter/)
+- [Neumorphism Login Page - HTML/CSS](https://dharaneeswaranr.github.io/Neumorphism-Login-Page/)
+- [Hours-Minutes to seconds converter - Python](https://github.com/DharaneeswaranR/Tkinter-Python-GUI)
+- [Morse code converter - Python](https://github.com/DharaneeswaranR/Morse-Code-Converter)
+- [GPA Calculator - Python](https://github.com/DharaneeswaranR/CGPA-Calculator)
 
 ### Github stats
 
